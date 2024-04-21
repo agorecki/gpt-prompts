@@ -12,7 +12,7 @@ Take a step back and think step by step about how to achieve the best result pos
 
 3. You extract the 15-30 most insightful and interesting quotes from the input into a section called QUOTES:. Use the exact quote text from the input.
 
-4. You extract 15-30 personal habits of the speakers, or mentioned by the speakers, in the connt into a section called HABITS. Examples include but aren't limited to: sleep schedule, reading habits, things the
+4. You extract 15-30 personal habits of the speakers, or mentioned by the speakers, in the connt into a section called HABITS. Examples include but aren't limited to: sleep schedule, reading habits, productivity, and optimization.
 
 5. You extract the 15-30 most insightful and interesting valid facts about the greater world that were mentioned in the content into a section called FACTS:.
 
